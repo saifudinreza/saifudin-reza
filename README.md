@@ -18,3 +18,8 @@
 <!-- Menampilkan Badge Skill -->
 ### 🛠 Skill
 ![Skills](https://skillicons.dev)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app)
+![Activity Graph](https://github-readme-activity-graph.vercel.app)
+
