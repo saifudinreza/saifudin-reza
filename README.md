@@ -1,4 +1,9 @@
 # <summary><strong>Hi there :wave: , I'm saifudin reza!</strong></summary>
+
+<p align="pusat">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! ⁇ ️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -17,9 +22,11 @@ Lifelong Learner, currently working as budagh kompeni.
     - :game_die: Drawing and writing are part of me. </br>
 <p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+<h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2>
+<p align="kiri">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
  
 ### <summary><strong>Let's connect!</strong></summary>
@@ -29,3 +36,5 @@ Lifelong Learner, currently working as budagh kompeni.
 </a>
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+
+  ![Animasi ular](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
